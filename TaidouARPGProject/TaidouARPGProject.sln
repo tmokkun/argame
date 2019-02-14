@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaidouARPGProject.Plugins", "TaidouARPGProject.Plugins.csproj", "{9FCC2288-7E1C-112A-4A15-53831651BB67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaidouARPGProject", "TaidouARPGProject.csproj", "{E000002B-2587-E506-A925-9F1DF40581E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaidouARPGProject.Editor.Plugins", "TaidouARPGProject.Editor.Plugins.csproj", "{85A65CF7-8AD4-7D86-5CD5-EC7613995348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaidouARPGProject.Editor", "TaidouARPGProject.Editor.csproj", "{A7DAF2CF-66F8-EF76-21EE-D4979A2BBCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FCC2288-7E1C-112A-4A15-53831651BB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCC2288-7E1C-112A-4A15-53831651BB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCC2288-7E1C-112A-4A15-53831651BB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCC2288-7E1C-112A-4A15-53831651BB67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E000002B-2587-E506-A925-9F1DF40581E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E000002B-2587-E506-A925-9F1DF40581E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E000002B-2587-E506-A925-9F1DF40581E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E000002B-2587-E506-A925-9F1DF40581E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85A65CF7-8AD4-7D86-5CD5-EC7613995348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A65CF7-8AD4-7D86-5CD5-EC7613995348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A65CF7-8AD4-7D86-5CD5-EC7613995348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A65CF7-8AD4-7D86-5CD5-EC7613995348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7DAF2CF-66F8-EF76-21EE-D4979A2BBCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DAF2CF-66F8-EF76-21EE-D4979A2BBCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DAF2CF-66F8-EF76-21EE-D4979A2BBCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DAF2CF-66F8-EF76-21EE-D4979A2BBCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
