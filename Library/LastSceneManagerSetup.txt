@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Hologla/Scenes/MenuSample.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
