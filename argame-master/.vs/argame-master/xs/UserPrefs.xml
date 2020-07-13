@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D648C6EE-C2DA-8BB2-EDD2-75F0CDA1483A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UnityARKitPlugin/UnityARKitPluginSettings.cs">
+    <Files>
+      <File FileName="Assets/UnityARKitPlugin/UnityARKitPluginSettings.cs" Line="13" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="argame-master" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="UnityARKitPlugin" expanded="True">
+                <Node name="UnityARKitPluginSettings.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="62917ac6-f29d-47d5-993b-8f11808726ec" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
